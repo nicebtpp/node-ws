@@ -1,17 +1,17 @@
 {
-  "name": "node-vms",
+  "name": "node-ws",
   "version": "1.0.0",
-  "description": "nodejs",
+  "description": "Node.js Server",
   "main": "index.js",
   "author": "eooce",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "private": false,
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "jsvms": "^1.0.0",
-    "axios": "latest"
+    "ws": "^8.14.2",
+    "axios": "^1.12.2"
   },
   "engines": {
     "node": ">=14"
