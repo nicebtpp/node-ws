@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "jsvms": "^1.0.0"
+    "jsvms": "^1.0.0",
     "axios": "latest"
   },
   "engines": {
