@@ -1,17 +1,13 @@
 {
-  "name": "node-vms",
+  "name": "nezha-v0-agent",
   "version": "1.0.0",
-  "description": "nodejs",
+  "description": "Pure Nezha v0 agent runner (no websocket)",
   "main": "index.js",
-  "author": "eooce",
-  "license": "MIT",
-  "private": false,
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "jsvms": "^1.0.0",
-    "axios": "latest"
+    "axios": "^1.12.2"
   },
   "engines": {
     "node": ">=14"
