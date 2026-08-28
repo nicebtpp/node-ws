@@ -1,0 +1,19 @@
+{
+  "name": "node-vms",
+  "version": "1.0.0",
+  "description": "nodejs vmess-ws (no argo, no nezha)",
+  "main": "index.js",
+  "author": "eooce",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "sh start.sh"
+  },
+  "dependencies": {
+    "jsvms": "^1.0.0",
+    "axios": "latest"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
